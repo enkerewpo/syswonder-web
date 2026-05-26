@@ -124,3 +124,4 @@ Robonix目标是为具身智能大脑提供跨越异构硬件的系统底座，�
 |赵龙淳|[@1mujue](https://github.com/1mujue)|北京航空航天大学（本科生）|
 |蔡蕾|[@162210107](https://github.com/162210107)|南京航空航天大学（本科生）|
 |陈震雄|[@Crzax](https://github.com/Crzax)|武汉大学（本科生）|
+|花一帆|[@hua980629](https://github.com/hua980629)|北京大学(博士后)|
